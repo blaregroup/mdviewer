@@ -29,6 +29,9 @@ Just Embed Javascript From Repo.
 ```
 Actually, I am little mad boy, That's Why I wrote these javascript Codes from completely scratch (Even not study anyone else related project. So, there are complete chance that my code solution can blow your mind... hahaha). I Used Lots of Regular Expression Functions, Many Javascript Other Built-In Functions To Acheive My Goals.
 
+
+
+
 Actually, i am still a noob, so forgive me if i have used any wrong code here in this script. but please Please, 
 don't forget to email me if you have anything good comment about my code or Any type of suggestions about my codes.
 ```
@@ -38,6 +41,7 @@ I Used HTML Element <textarea> as an Input Source, And <div> as Output Preview T
 I used lots of own wrote regular expressions and functions to split,join,test,find,slice,format
 and much More.
 ```
+- To open Live Editor click [here](https://cdn.statically.io/gh/blaregroup/mdviewer/master/index.html)
 
 ### How You Can Simply Use it?
 ```
